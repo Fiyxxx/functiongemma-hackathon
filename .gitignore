@@ -208,6 +208,22 @@ __marimo__/
 
 cactus
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node / React Native / Expo
+node_modules/
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+*.lock
+!package-lock.json
+
+# VS Code
+.vscode/
+
 # Eval server (contains held-out evals, scoring, and uploads)
 server/
 
