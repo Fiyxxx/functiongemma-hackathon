@@ -44,3 +44,10 @@ Thumbs.db
 profile.txt
 *.md
 !README.md
+
+# Frontend build artifacts & deps
+web/node_modules/
+agent/static/
+
+# Agent workspace (user data)
+~/agent-workspace/
